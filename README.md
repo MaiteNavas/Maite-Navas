@@ -12,4 +12,5 @@ Ahora, como desarrolladora web, combino mi creatividad y habilidades técnicas p
 
 <h3 align="left">💼 Contacto</h3>
 <a href='maitenavas626@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/maitenavas626@gmail.com-100000?style=social&logo=gmail&logoColor=EA4335&labelColor=FFFFFF&color=EA4335'/></a><br>
-<a href='https://www.linkedin.com/in/maitenavasfdez/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Perfil_Linkedin-100000?style=social&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF&color=0A66C2'/></a>
+<a href='https://www.linkedin.com/in/maitenavasfdez/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Perfil_Linkedin-100000?style=social&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF&color=0A66C2'/></a><br>
+<a href='https://gitlab.com/maitenavas626' target="_blank"><img alt='gitlab' src='https://img.shields.io/badge/GitLab-100000?style=social&logo=gitlab&logoColor=FC6D26&labelColor=FFFFFF&color=FC6D26'/></a>
