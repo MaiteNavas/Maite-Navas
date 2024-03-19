@@ -1,10 +1,15 @@
-<img src="[https://github.com/MaiteNavas/Maite-Navas/issues/1#issue-2194474498](https://drive.google.com/file/d/1x2HhNHNnbxTisr6Uhb1zOdswVYgbEsnI/view?usp=drive_link)" width="100%" height="" />
 
+<h3 align="center"> 🚀 Gracias por aterrizar en mi perfil 🚀</h3>
+<h3 align="center"> 💙 Mi nombre es Maite 💙</h3>
+<h2 align="center"> 👩‍💻 Soy Desarrolladora Web Full Stack Jr 👩‍💻 </h2> <br>
+Mi trayectoria inicial se centró en el mundo audiovisual 🎞️, especialmente en el área de edición, donde adquirí habilidades creativas y atención al detalle.
+Ahora, como desarrolladora web, combino mi creatividad y habilidades técnicas para construir soluciones innovadoras. Soy una persona abierta, trabajadora y siempre dispuesta a enfrentar nuevos desafíos. Mi enfoque es aprender constantemente y aplicar mis conocimientos de manera efectiva en el emocionante mundo de la tecnología.
 
-### Hi there 👋 I'm Maite Navas
+<h3 align="left">🔧 Herramientas</h3>
+<a href='#' target="_blank"><img alt='HTML' src='https://img.shields.io/badge/HTML-100000?style=flat&logo=HTML&logoColor=E34F26&labelColor=FFFFFF&color=E34F26'/></a> <a href='#' target="_blank"><img alt='CSS' src='https://img.shields.io/badge/CSS-100000?style=flat&logo=CSS&logoColor=1572B6&labelColor=FFFFFF&color=1572B6'/></a> <a href='#' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=flat&logo=JavaScript&logoColor=F7DF1E&labelColor=FFFFFF&color=F7DF1E'/></a> <a href='#' target="_blank"><img alt='React' src='https://img.shields.io/badge/React-100000?style=flat&logo=React&logoColor=61DAFB&labelColor=FFFFFF&color=61DAFB'/></a> <a href='#' target="_blank"><img alt='Angular' src='https://img.shields.io/badge/Angular-100000?style=flat&logo=Angular&logoColor=0F0F11&labelColor=FFFFFF&color=0F0F11'/></a><br>
+<a href='#' target="_blank"><img alt='PHP' src='https://img.shields.io/badge/PHP-100000?style=flat&logo=PHP&logoColor=777BB4&labelColor=FFFFFF&color=777BB4'/></a> <a href='#' target="_blank"><img alt='Laravel' src='https://img.shields.io/badge/Laravel-100000?style=flat&logo=Laravel&logoColor=FF2D20&labelColor=FFFFFF&color=FF2D20'/></a> <a href='#' target="_blank"><img alt='openjdk' src='https://img.shields.io/badge/Java-JDK-100000?style=flat&logo=openjdk&logoColor=000000&labelColor=FFFFFF&color=000000'/></a> <a href='#' target="_blank"><img alt='spring' src='https://img.shields.io/badge/Spring-100000?style=flat&logo=spring&logoColor=6DB33F&labelColor=FFFFFF&color=6DB33F'/></a> <a href='#' target="_blank"><img alt='springboot' src='https://img.shields.io/badge/SpringBoot-100000?style=flat&logo=springboot&logoColor=6DB33F&labelColor=FFFFFF&color=6DB33F'/></a><br>
+<a href='#' target="_blank"><img alt='MySql' src='https://img.shields.io/badge/MySql-100000?style=flat&logo=MySql&logoColor=4479A1&labelColor=FFFFFF&color=4479A1'/></a> <a href='#' target="_blank"><img alt='phpMyAdmin' src='https://img.shields.io/badge/PhpMyAdmin-100000?style=flat&logo=phpMyAdmin&logoColor=6C78AF&labelColor=FFFFFF&color=6C78AF'/></a>
 
-- 🏫 I'm a superior technician video producer
-- 🌱 I’m currently learning ...Full Stack Web Developer @FactoriaF5
-- 💻 Learning every day, enjoying the moment
-- 💞 Travel, movies, hiking...
-
+<h3 align="left">💼 Contacto</h3>
+<a href='maitenavas626@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/maitenavas626@gmail.com-100000?style=social&logo=gmail&logoColor=EA4335&labelColor=FFFFFF&color=EA4335'/></a><br>
+<a href='https://www.linkedin.com/in/maitenavasfdez/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Perfil_Linkedin-100000?style=social&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF&color=0A66C2'/></a>
